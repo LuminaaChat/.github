@@ -15,4 +15,4 @@ Die Jugendhilfe Olsberg der Kropff-Federath´schen Stiftung ist eine Einrichtung
 
 Aktuell steht die Jugendhilfe Olsberg vor der Herausforderung, einen passenden Messenger für den internen Austausch zu finden. Gemeinsam mit dir wollen wir das ändern und eine maßgeschneiderte Lösung schaffen, die den Arbeitsalltag der Mitarbeitenden nachhaltig erleichtert.
 
-![alt text](https://github.com/OpenWudChat/.github/profile/main/Jugendhilfe-Olsberg-Print.jpg?raw=true)
+![alt text](https://github.com/OpenWudChat/.github/blob/main/profile/Jugendhilfe-Olsberg-Print.jpg?raw=true)
