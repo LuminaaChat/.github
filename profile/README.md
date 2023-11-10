@@ -20,7 +20,10 @@ Aktuell steht die Jugendhilfe Olsberg vor der Herausforderung, einen passenden M
 
 ## Contributed Companies
 
+![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/adesso.png)
 ![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/ams.png)
 ![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/tmc.png)
-![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/adesso.png)
 ![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/amplio.png)
+![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/uandi.png)
+![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/amexus.png)
+![alt text](https://raw.githubusercontent.com/OpenWudChat/.github/main/profile/muelot.svg)
