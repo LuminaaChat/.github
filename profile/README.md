@@ -1,4 +1,4 @@
-# Open WUD Chat
+# luminaa.chat
 
 World Usability Day OWL
 Brücken bauen. Im digitalen Raum.
